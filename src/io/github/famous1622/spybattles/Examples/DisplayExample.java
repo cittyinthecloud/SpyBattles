@@ -1,4 +1,4 @@
-package io.github.famous1622.spybattles;
+package io.github.famous1622.spybattles.Examples;
 
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.Display;
