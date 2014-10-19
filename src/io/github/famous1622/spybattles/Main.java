@@ -1,7 +1,5 @@
 package io.github.famous1622.spybattles;
 
-import io.github.famous1622.spybattles.Examples.DisplayExample;
-
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.DisplayMode;
